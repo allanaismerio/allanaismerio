@@ -7,7 +7,7 @@ Me chamo Allana Ferreira Ismério, tenho 22 anos e sou do Rio de Janeiro. Atualm
 Hoje, estou direcionando minha carreira para a área de tecnologia, com foco em desenvolvimento web, análise de dados e criação de dashboards, buscando unir lógica de programação à geração de insights por meio de dados. Busco evoluir constantemente, aplicando meus conhecimentos em projetos práticos e desenvolvendo soluções que gerem impacto real.
 
 🔗 Meu LinkedIn: "[Allana Ismério](https://www.linkedin.com/in/allanaismerio)"
-🔗 Meu Instagram: "[Allana Ismério](https://www.linkedin.com/in/allanaismerio)"
+🔗 Meu Instagram: "[Allana Ismério](https://www.instagram.com/allana_ismerio)"
 
 <p align="left">
     <a href="https://github.com/allanaismerio?tab=repositories">
