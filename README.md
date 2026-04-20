@@ -92,7 +92,7 @@ Hoje, estou direcionando minha carreira para a área de tecnologia, com foco em 
 
 ---
 
-### 📊 Em aprendizado
+### 📊 Em Aprendizado
 
 - 📈 Power BI  
 - 📊 Excel (análise de dados)  
