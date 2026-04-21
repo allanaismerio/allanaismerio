@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=👩🏾‍💻+Allana+Ismério" />
 </p>
 
-**`Estudante de TI | Desenvolvedora em formação`**
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Estudante+de+ADS" />
+</p>
 
 Me chamo Allana Ferreira Ismério, tenho 22 anos e sou do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIG.
 
