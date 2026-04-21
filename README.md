@@ -2,12 +2,19 @@
 
 **`Estudante de TI | Desenvolvedora em formação`**
 
-Me chamo Allana Ferreira Ismério, tenho 22 anos e sou do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIG. Minha trajetória é marcada pela diversidade de experiências, incluindo formação técnica em enfermagem e atuação em ambiente corporativo, o que fortaleceu minhas habilidades de comunicação, organização, resolução de problemas e trabalho em equipe.
+Me chamo Allana Ferreira Ismério, tenho 22 anos e sou do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIG.
 
-Hoje, estou direcionando minha carreira para a área de tecnologia, com foco em desenvolvimento web, análise de dados e criação de dashboards, buscando unir lógica de programação à geração de insights por meio de dados. Busco evoluir constantemente, aplicando meus conhecimentos em projetos práticos e desenvolvendo soluções que gerem impacto real.
+Minha trajetória é marcada pela diversidade de experiências, incluindo formação técnica em enfermagem e atuação em ambiente corporativo, o que fortaleceu minhas habilidades de comunicação, organização, resolução de problemas e trabalho em equipe.
 
-🔗 Meu LinkedIn: "[Allana Ismério](https://www.linkedin.com/in/allanaismerio)"
-🔗 Meu Instagram: "[Allana Ismério](https://www.instagram.com/allana_ismerio)"
+Hoje, direciono minha carreira para a área de tecnologia, com foco em desenvolvimento web e análise de dados. Busco unir lógica de programação à geração de insights por meio de dados, criando soluções que gerem impacto real.
+
+Estou em constante evolução, aplicando meus conhecimentos em projetos práticos e expandindo minhas habilidades técnicas e analíticas.
+
+---
+
+🔗 Meu LinkedIn: [Allana Ismério](https://www.linkedin.com/in/allanaismerio)  
+🔗 Meu Instagram: [@allanaismerio](https://instagram.com/allanaismerio)  
+💬 Discord: **allana5545**
 
 <p align="left">
     <a href="https://github.com/allanaismerio?tab=repositories">
@@ -92,7 +99,7 @@ Hoje, estou direcionando minha carreira para a área de tecnologia, com foco em 
 
 ---
 
-### 📊 Em Aprendizado
+### 📊 Em aprendizado
 
 - 📈 Power BI  
 - 📊 Excel (análise de dados)  
@@ -113,9 +120,8 @@ Hoje, estou direcionando minha carreira para a área de tecnologia, com foco em 
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Langs" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaismerio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-
 </p>
