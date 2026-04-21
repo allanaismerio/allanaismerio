@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=👩🏾‍💻+Allana+Ismério" />
 </p>
 
+---
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Sobre mim" />
 </p>
@@ -14,6 +16,8 @@ Hoje, direciono minha carreira para a área de tecnologia, com foco em desenvolv
 
 Estou em constante evolução, aplicando meus conhecimentos em projetos práticos e expandindo minhas habilidades técnicas e analíticas.
 
+---
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Links" />
 </p>
@@ -21,6 +25,8 @@ Estou em constante evolução, aplicando meus conhecimentos em projetos prático
 🔗 Meu LinkedIn: [Allana Ismério](https://www.linkedin.com/in/allanaismerio)  
 🔗 Meu Instagram: [@allanaismerio](https://instagram.com/allanaismerio)  
 💬 Discord: **allana5545**
+
+---
 
 <p align="left">
     <a href="https://github.com/allanaismerio?tab=repositories">
