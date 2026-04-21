@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=👩🏾‍💻+Allana+Ismério;Estudante+de+ADS;Futura+Dev+Full+Stack;Dados+%2B+Código+%3D+Impacto+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=👩🏾‍💻+Allana+Ismério" />
 </p>
 
 **`Estudante de TI | Desenvolvedora em formação`**
