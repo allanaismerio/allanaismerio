@@ -1,7 +1,5 @@
-# 👩🏾‍💻 Allana Ismério
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=👩🏾‍💻+Allana+Ismério;Estudante+de+ADS;Futura+Dev+Full+Stack;Dados+%2B+Código+%3D+Impacto+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=👩🏾‍💻+Allana+Ismério;Estudante+de+ADS" />
 </p>
 
 ---
@@ -48,23 +46,12 @@ Hoje, meu objetivo é **transformar lógica e dados em soluções reais que impa
 
 ---
 
-## 📚 Atualmente estudando
-
-```diff
-+ 📈 Power BI
-+ 📊 Excel para análise de dados
-+ 📉 Visualização de dados
-
----
-
 📊 Estatísticas
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=allanaismerio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaismerio&theme=tokyonight&layout=compact"/> </p>
 
----
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
 
----
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Estatisticas" />
