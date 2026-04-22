@@ -44,9 +44,16 @@ Hoje, meu objetivo é **transformar lógica e dados em soluções reais que impa
 
 ---
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=allanaismerio&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaismerio&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 <p align="left">
