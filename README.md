@@ -1,126 +1,68 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=👩🏾‍💻+Allana+Ismério" />
+# 👩🏾‍💻 Allana Ismério
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=28&center=true&vCenter=true&width=700&lines=👩🏾‍💻+Allana+Ismério;Estudante+de+ADS;Futura+Dev+Full+Stack;Dados+%2B+Código+%3D+Impacto+🚀" />
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Sobre mim" />
-</p>
+## 🚀 Sobre mim
 
-Me chamo Allana Ferreira Ismério, tenho 22 anos e sou do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNIG.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+📍 Rio de Janeiro - Brasil  
 
-Minha trajetória é marcada pela diversidade de experiências, incluindo formação técnica em enfermagem e atuação em ambiente corporativo, o que fortaleceu minhas habilidades de comunicação, organização, resolução de problemas e trabalho em equipe.
+Sou uma desenvolvedora em formação com foco em **desenvolvimento web e análise de dados**.
 
-Hoje, direciono minha carreira para a área de tecnologia, com foco em desenvolvimento web e análise de dados. Busco unir lógica de programação à geração de insights por meio de dados, criando soluções que gerem impacto real.
+Minha trajetória começou fora da tecnologia, com formação em enfermagem e experiência corporativa — o que hoje fortalece minhas habilidades de comunicação, organização e resolução de problemas.
 
-Estou em constante evolução, aplicando meus conhecimentos em projetos práticos e expandindo minhas habilidades técnicas e analíticas.
+Hoje, meu objetivo é **transformar lógica e dados em soluções reais que impactam pessoas**.
 
 ---
 
+## 🌐 Conecte-se comigo
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Links" />
+  <a href="https://www.linkedin.com/in/allanaismerio">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/allanaismerio">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-🔗 Meu LinkedIn: [Allana Ismério](https://www.linkedin.com/in/allanaismerio)  
-🔗 Meu Instagram: [@allanaismerio](https://instagram.com/allanaismerio)  
 💬 Discord: **allana5545**
 
 ---
 
+## 🧠 Tech Stack
+
 <p align="left">
-    <a href="https://github.com/allanaismerio?tab=repositories">
-        <img 
-            alt="Repositórios" 
-            title="Veja meus projetos no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-Meus%20Projetos-55960c?style=for-the-badge&logo=repo&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/allanaismerio?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/allanaismerio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Linguagens e Tecnologias" />
-</p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+## 📚 Atualmente estudando
 
-<br/>
-<br/>
+```diff
++ 📈 Power BI
++ 📊 Excel para análise de dados
++ 📉 Visualização de dados
 
 ---
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=Em aprendizado" />
-</p>
+📊 Estatísticas
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=allanaismerio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanaismerio&theme=tokyonight&layout=compact"/> </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=26&center=false&vCenter=true&width=600&lines=- 📈 Power BI  
-- 📊 Excel (análise de dados)  
-- 📉 Visualização de dados  " />
-</p>
+---
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
 
 ---
 
